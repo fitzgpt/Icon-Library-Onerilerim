@@ -17,29 +17,29 @@ Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bul
 
 | Kütüphane Adı | Bağlantı | Kısa Açıklama |
 | :--- | :--- | :--- |
-| **Iconoir** | <a href="https://iconoir.com" target="_blank">iconoir.com</a> | React/Vue/Flutter destekli, 1.500+ minimalist açık kaynak ikon. |
-| **Tabler Icons** | <a href="https://tabler-icons.io" target="_blank">tabler-icons.io</a> | 5.500+ özelleştirilebilir, minimalist açık kaynaklı SVG ikon koleksiyonu. |
-| **Heroicons** | <a href="https://heroicons.com" target="_blank">heroicons.com</a> | Tailwind CSS ekibinden 316 adet modern ve temiz (outline/solid) SVG ikon. |
-| **Ionicons** | <a href="https://ionic.io/ionicons" target="_blank">ionic.io/ionicons</a> | Mobil/Web UI için optimize edilmiş 1.300+ açık kaynaklı ikon. |
-| **Lucide Icons** | <a href="https://lucide.dev" target="_blank">lucide.dev</a> | Feather tabanlı, 1.500+ tutarlı ve özelleştirilebilir açık kaynaklı ikon. |
-| **Material Symbols** | <a href="https://fonts.google.com/icons" target="_blank">fonts.google.com/icons</a> | Google'ın 2.500+ ikondan oluşan, değişken font destekli resmi seti. |
-| **Remix Icon** | <a href="https://remixicon.com" target="_blank">remixicon.com</a> | Nötr tasarımlı, açık kaynaklı ve 2.800+ ikon içeren geniş kütüphane. |
-| **Boxicons** | <a href="https://boxicons.com" target="_blank">boxicons.com</a> | React uyumlu, 1.500+ modern ve farklı ağırlıkta ikon seti. |
-| **Phosphor Icons** | <a href="https://phosphoricons.com" target="_blank">phosphoricons.com</a> | 9.000+ ikon ve 6 farklı çizgi ağırlığıyla yüksek esneklik sunar. |
-| **SVGRepo** | <a href="https://www.svgrepo.com" target="_blank">svgrepo.com</a> | 500.000+ ücretsiz SVG ikon barındıren devasa bir arama motoru. |
-| **Bootstrap Icons** | <a href="https://icons.getbootstrap.com" target="_blank">icons.getbootstrap.com</a> | Bootstrap'in resmi kütüphanesi; 2.000+ her projeye uyumlu ikon. |
-| **Feather Icons** | <a href="https://feathericons.com" target="_blank">feathericons.com</a> | Sadelik ve şıklığıyla bilinen 280+ hafif ikon koleksiyonu. |
-| **Iconsax** | <a href="https://iconsax.io" target="_blank">iconsax.io</a> | 1.000+ benzersiz ikon içeren, estetik odaklı kütüphane. |
-| **UIcons** | <a href="https://www.uicons.com" target="_blank">uicons.com</a> | Minimalist arayüzler için tasarlanmış 6.600+ şık ikon. |
-| **Carbon Icons** | <a href="https://carbondesignsystem.com/icons" target="_blank">carbondesignsystem.com</a> | IBM tasarımı, dashboard ve kurumsal uygulamalar için ideal set. |
-| **Iconify** | <a href="https://icon-sets.iconify.design" target="_blank">icon-sets.iconify.design</a> | Onlarca açık kaynak setini tek bir API üzerinden sunan dev havuz. |
-| **Eva Icons** | <a href="https://akveo.github.io/eva-icons" target="_blank">akveo.github.io/eva-icons</a> | Modern arayüzler için 480 adet şık ve animasyon uyumlu ikon. |
-| **Radix Icons** | <a href="https://icons.modulz.io" target="_blank">icons.modulz.io</a> | Oklar ve tipografi odaklı temiz, profesyonel koleksiyon. |
-| **Majesticons** | <a href="https://www.majesticons.com" target="_blank">majesticons.com</a> | 760 adet yüksek kaliteli, çizgi ve katı stilde ikon seti. |
-| **Font Awesome** | <a href="https://fontawesome.com" target="_blank">fontawesome.com</a> | 2.050+ ücretsiz ikon; React, Vue ve Angular desteğiyle dünya standardı. |
-| **Hugeicons** | <a href="https://hugeicons.com" target="_blank">hugeicons.com</a> | 4.000+ ücretsiz ikon; NPM, CDN ve Figma desteği sunan dev kütüphane. |
-| **Lineicons** | <a href="https://lineicons.com" target="_blank">lineicons.com</a> | 4.000+ ücretsiz, pixel-perfect SVG ikon içeren modern set. |
-| **Streamline** | <a href="https://www.streamlinehq.com" target="_blank">streamlinehq.com</a> | Farklı tasarım stilleriyle 30.000+ ikon seçeneği sunan dev havuz. |
+| **Iconoir** | [iconoir.com](https://iconoir.com) | React/Vue/Flutter destekli, 1.500+ minimalist açık kaynak ikon. |
+| **Tabler Icons** | [tabler-icons.io](https://tabler-icons.io) | 5.500+ özelleştirilebilir, minimalist açık kaynaklı SVG ikon koleksiyonu. |
+| **Heroicons** | [heroicons.com](https://heroicons.com) | Tailwind CSS ekibinden 316 adet modern ve temiz (outline/solid) SVG ikon. |
+| **Ionicons** | [ionic.io/ionicons](https://ionic.io/ionicons) | Mobil/Web UI için optimize edilmiş 1.300+ açık kaynaklı ikon. |
+| **Lucide Icons** | [lucide.dev](https://lucide.dev) | Feather tabanlı, 1.500+ tutarlı ve özelleştirilebilir açık kaynaklı ikon. |
+| **Material Symbols** | [fonts.google.com/icons](https://fonts.google.com/icons) | Google'ın 2.500+ ikondan oluşan, değişken font destekli resmi seti. |
+| **Remix Icon** | [remixicon.com](https://remixicon.com) | Nötr tasarımlı, açık kaynaklı ve 2.800+ ikon içeren geniş kütüphane. |
+| **Boxicons** | [boxicons.com](https://boxicons.com) | React uyumlu, 1.500+ modern ve farklı ağırlıkta ikon seti. |
+| **Phosphor Icons** | [phosphoricons.com](https://phosphoricons.com) | 9.000+ ikon ve 6 farklı çizgi ağırlığıyla yüksek esneklik sunar. |
+| **SVGRepo** | [svgrepo.com](https://www.svgrepo.com) | 500.000+ ücretsiz SVG ikon barındıren devasa bir arama motoru. |
+| **Bootstrap Icons** | [icons.getbootstrap.com](https://icons.getbootstrap.com) | Bootstrap'in resmi kütüphanesi; 2.000+ her projeye uyumlu ikon. |
+| **Feather Icons** | [feathericons.com](https://feathericons.com) | Sadelik ve şıklığıyla bilinen 280+ hafif ikon koleksiyonu. |
+| **Iconsax** | [iconsax.io](https://iconsax.io) | 1.000+ benzersiz ikon içeren, estetik odaklı kütüphane. |
+| **UIcons** | [uicons.com](https://www.uicons.com) | Minimalist arayüzler için tasarlanmış 6.600+ şık ikon. |
+| **Carbon Icons** | [carbondesignsystem.com](https://carbondesignsystem.com/icons) | IBM tasarımı, dashboard ve kurumsal uygulamalar için ideal set. |
+| **Iconify** | [icon-sets.iconify.design](https://icon-sets.iconify.design) | Onlarca açık kaynak setini tek bir API üzerinden sunan dev havuz. |
+| **Eva Icons** | [akveo.github.io/eva-icons](https://akveo.github.io/eva-icons) | Modern arayüzler için 480 adet şık ve animasyon uyumlu ikon. |
+| **Radix Icons** | [radix-ui.com/icons](https://www.radix-ui.com/icons) | Oklar ve tipografi odaklı temiz, profesyonel koleksiyon. |
+| **Majesticons** | [majesticons.com](https://www.majesticons.com) | 760 adet yüksek kaliteli, çizgi ve katı stilde ikon seti. |
+| **Font Awesome** | [fontawesome.com](https://fontawesome.com) | 2.050+ ücretsiz ikon; React, Vue ve Angular desteğiyle dünya standardı. |
+| **Hugeicons** | [hugeicons.com](https://hugeicons.com) | 4.000+ ücretsiz ikon; NPM, CDN ve Figma desteği sunan dev kütüphane. |
+| **Lineicons** | [lineicons.com](https://lineicons.com) | 4.000+ ücretsiz, pixel-perfect SVG ikon içeren modern set. |
+| **Streamline** | [streamlinehq.com](https://www.streamlinehq.com) | Farklı tasarım stilleriyle 30.000+ ikon seçeneği sunan dev havuz. |
 
 ---
 
