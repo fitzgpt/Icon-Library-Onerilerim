@@ -1,6 +1,6 @@
-# 🚀 Awesome Icons 2025
+# 🚀 Icon Library Önerilerim
 
-2025 yılı için modern web ve mobil projelerinizde kullanabileceğiniz, çoğunlukla ücretsiz ve açık kaynaklı ikon kütüphanelerinin küratörlüğünü yaptığım kapsamlı bir listedir. 
+Modern web ve mobil projelerinizde kullanabileceğiniz, çoğunlukla ücretsiz ve açık kaynaklı ikon kütüphanelerinin küratörlüğünü yaptığım kapsamlı bir listedir. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fitzgpt?style=social)](https://twitter.com/fitzgpt)
 ![License](https://img.shields.io/badge/license-MIT-green)
