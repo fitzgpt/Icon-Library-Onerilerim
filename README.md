@@ -9,7 +9,7 @@ Modern web ve mobil projelerinizde kullanabileceğiniz, çoğunlukla ücretsiz v
 ---
 
 ## 🧐 Neden Bu Liste?
-Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bulmaktır. Bu repo, tasarımcıların (Figma/Sketch) ve yazılımcıların (React/Vue/Flutter) ihtiyaç duyacağı en güncel kaynakları tek bir yerde toplar.
+Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bulmaktır. Bu repo, tasarımcıların ve yazılımcıların ihtiyaç duyacağı en güncel kaynakları tek bir yerde toplar.
 
 ---
 
