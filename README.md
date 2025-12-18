@@ -17,7 +17,6 @@ Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bul
 
 | Kütüphane Adı | Bağlantı | Kısa Açıklama |
 | :--- | :--- | :--- |
-
 | **Iconoir** | [iconoir.com](https://iconoir.com) | React/Vue/Flutter destekli, 1.500+ minimalist açık kaynak ikon. |
 | **Tabler Icons** | [tabler-icons.io](https://tabler-icons.io) | 5.500+ özelleştirilebilir, minimalist açık kaynaklı SVG ikon koleksiyonu. |
 | **Heroicons** | [heroicons.com](https://heroicons.com) | Tailwind CSS ekibinden 316 adet modern ve temiz (outline/solid) SVG ikon. |
@@ -27,7 +26,7 @@ Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bul
 | **Remix Icon** | [remixicon.com](https://remixicon.com) | Nötr tasarımlı, açık kaynaklı ve 2.800+ ikon içeren geniş kütüphane. |
 | **Boxicons** | [boxicons.com](https://boxicons.com) | React uyumlu, 1.500+ modern ve farklı ağırlıkta ikon seti. |
 | **Phosphor Icons** | [phosphoricons.com](https://phosphoricons.com) | 9.000+ ikon ve 6 farklı çizgi ağırlığıyla yüksek esneklik sunar. |
-| **SVGRepo** | [svgrepo.com](https://www.svgrepo.com) | 500.000+ ücretsiz SVG ikon barındıran devasa bir arama motoru. |
+| **SVGRepo** | [svgrepo.com](https://www.svgrepo.com) | 500.000+ ücretsiz SVG ikon barındıren devasa bir arama motoru. |
 | **Bootstrap Icons** | [icons.getbootstrap.com](https://icons.getbootstrap.com) | Bootstrap'in resmi kütüphanesi; 2.000+ her projeye uyumlu ikon. |
 | **Feather Icons** | [feathericons.com](https://feathericons.com) | Sadelik ve şıklığıyla bilinen 280+ hafif ikon koleksiyonu. |
 | **Iconsax** | [iconsax.io](https://iconsax.io) | 1.000+ benzersiz ikon içeren, estetik odaklı kütüphane. |
@@ -41,6 +40,7 @@ Bir projeye başlarken en çok vakit alan şeylerden biri kaliteli ikon seti bul
 | **Hugeicons** | [hugeicons.com](https://hugeicons.com) | 4.000+ ücretsiz ikon; NPM, CDN ve Figma desteği sunan dev kütüphane. |
 | **Lineicons** | [lineicons.com](https://lineicons.com) | 4.000+ ücretsiz, pixel-perfect SVG ikon içeren modern set. |
 | **Streamline** | [streamlinehq.com](https://www.streamlinehq.com) | Farklı tasarım stilleriyle 30.000+ ikon seçeneği sunan dev havuz. |
+
 ---
 
 ## 🤝 Katkıda Bulunun
